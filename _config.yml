@@ -1,0 +1,14 @@
+layout_spectrum: 0.2043011
+color:
+  saturation: 0.762867
+  lightness: 0.2684534
+  brandStrength: 0.7546133
+  rhythmicContrast: 0.2838614
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+typography_spectrum: 0.3607772
+name: shipw.com
